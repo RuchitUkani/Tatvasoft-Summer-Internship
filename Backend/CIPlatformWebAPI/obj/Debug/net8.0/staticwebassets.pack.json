@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\13_20240604171154.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\13_20240604171154.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\13_20240604171730.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\13_20240604171730.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\13_20240604172206.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\13_20240604172206.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\13_20240604172209.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\13_20240604172209.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\13_20240604172211.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\13_20240604172211.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\13_20240604172216.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\13_20240604172216.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\13_20240604172323.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\13_20240604172323.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\13_20240604172714.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\13_20240604172714.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\13_20240604172750.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\13_20240604172750.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\13_20240604172958.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\13_20240604172958.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\13_20240604173213.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\13_20240604173213.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\14174_20240605152156.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\14174_20240605152156.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\14174_20240606010944.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\14174_20240606010944.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\19_20240604173915.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\19_20240604173915.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603103728.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603103728.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603131436.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603131436.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603131441.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603131441.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603131442.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603131442.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603131502.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603131502.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603134823.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603134823.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603134828.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603134828.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603134903.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603134903.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603135104.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603135104.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603135131.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603135131.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603135749.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603135749.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603135756.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603135756.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603135924.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603135924.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603135928.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603135928.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603140032.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603140032.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603140804.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603140804.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603140835.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603140835.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603140944.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603140944.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603140954.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603140954.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603141135.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603141135.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603141210.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603141210.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603141227.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603141227.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603141304.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603141304.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603145143.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603145143.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603145153.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603145153.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603145633.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603145633.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603145637.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603145637.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603145720.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603145720.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240603145728.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240603145728.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604011418.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604011418.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604011426.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604011426.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604011428.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604011428.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604011445.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604011445.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604011913.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604011913.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604012204.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604012204.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604013058.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604013058.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604013115.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604013115.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604013251.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604013251.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604013325.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604013325.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604013437.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604013437.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604013717.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604013717.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604013804.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604013804.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604013836.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604013836.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604014350.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604014350.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604163751.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604163751.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604163812.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604163812.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604164626.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604164626.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604164646.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604164646.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240604170535.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240604170535.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\3a6wkn7-porsche-911-gt3-rs-wallpaper_20240605231612.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\3a6wkn7-porsche-911-gt3-rs-wallpaper_20240605231612.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\58252_20240605152216.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\58252_20240605152216.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Motivational-Wallpaper-08-1920x1200_20240605144709.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Motivational-Wallpaper-08-1920x1200_20240605144709.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Motivational-Wallpaper-08-1920x1200_20240605144715.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Motivational-Wallpaper-08-1920x1200_20240605144715.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Motivational-Wallpaper-08-1920x1200_20240605145330.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Motivational-Wallpaper-08-1920x1200_20240605145330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Motivational-Wallpaper-08-1920x1200_20240606130035.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Motivational-Wallpaper-08-1920x1200_20240606130035.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\pexels-cátia-matos-1072179_20240606012343.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\pexels-cátia-matos-1072179_20240606012343.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\wp11361929-minimalist-3440x1440-wallpapers_20240606125151.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\wp11361929-minimalist-3440x1440-wallpapers_20240606125151.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\wp2584502-tatra-national-park-wallpapers_20240606121756.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\wp2584502-tatra-national-park-wallpapers_20240606121756.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\wp8931114-star-wars-dual-screen-wallpapers_20240606235103.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\wp8931114-star-wars-dual-screen-wallpapers_20240606235103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\wp9378863-windows-11-hd-wallpapers_20240606120403.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\wp9378863-windows-11-hd-wallpapers_20240606120403.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\wp9378863-windows-11-hd-wallpapers_20240606120410.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\wp9378863-windows-11-hd-wallpapers_20240606120410.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\wp9378863-windows-11-hd-wallpapers_20240606120411.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\wp9378863-windows-11-hd-wallpapers_20240606120411.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\wp9378863-windows-11-hd-wallpapers_20240606120431.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\wp9378863-windows-11-hd-wallpapers_20240606120431.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\wp9378863-windows-11-hd-wallpapers_20240606120432.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\wp9378863-windows-11-hd-wallpapers_20240606120432.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\source\\repos\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\wp9378863-windows-11-hd-wallpapers_20240606120453.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\wp9378863-windows-11-hd-wallpapers_20240606120453.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_API.props",
+      "PackagePath": "build\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_API.props",
+      "PackagePath": "buildMultiTargeting\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_API.props",
+      "PackagePath": "buildTransitive\\Web_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
