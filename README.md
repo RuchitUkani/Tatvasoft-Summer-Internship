@@ -1,12 +1,35 @@
-# Tatvasoft-Summer-Internship
+# Virtual Community Support
 
-Day1 - Learnt to create database, CRUD operations, Sub-query data and Table management in PostgreSQL in pgAdmin.
+Welcome to the Virtual Community Support project! This repository contains the codebase for an online platform designed to facilitate community support and engagement. The platform allows users to seek help, share knowledge, and connect with others within a virtual community.
 
-Day2 - Introduction to Angular : Learnt about angular, focusing on componets, modules, data binding, and services, passing information between parent and child components, etc.
+## Table of Contents
 
-Day3 - Introduction to .Net core web API, Swagger UI and understand n-layer architecture, Created some APIs.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Day4- Understand Code First Approach , Understand LINQ, Understand how to write LINQ queries with Code First Approach.
+## Introduction
 
-Day5- Difference between Authorization and Authentication. Applied authentication in sign in and authorization while accessing data with the help of Book API , using JWT service.
+The Virtual Community Support project aims to create a supportive and interactive online community where members can assist each other with various issues, share resources, and build connections. This platform is designed to be user-friendly and accessible, providing a space for meaningful interactions and support.
 
+## Features
+
+- **User Registration and Authentication**: Secure sign-up and login processes.
+- **Profile Management**: Users can create and update their profiles.
+- **Community Missions**: Create, edit, and delete mission within the community.
+- **Comments and Replies**: Engage in discussions by commenting on posts.
+- **Search Functionality**: Easily find posts and users within the community.
+- **Admin Panel**: Administrative tools for managing users and content.
+
+## Technologies Used
+
+- **Frontend**: Angular, Bootstrap
+- **Backend**: ASP.NET Core
+- **Database**: PostgreSQL Server
+- **Authentication**: ASP.NET Identity
+- **Other Libraries**: Entity Framework Core
